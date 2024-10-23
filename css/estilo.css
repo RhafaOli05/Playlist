@@ -1,0 +1,291 @@
+body{
+    background-color: black;
+    color: white;
+}
+div{
+    position: fixed;
+    top: 93%;
+    font-size: 30px;
+    width: 99%;
+    display: flex;
+    justify-content: space-around;
+    color: rgb(0, 47, 255);
+    border: solid rgb(0, 47, 255);
+    background-color: rgb(0, 2, 61);
+}
+div a{
+    font-size: 30px;
+}
+.ftPagina{
+    margin-left: 230px;;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+audio{
+    width: 258px;
+    margin-left: 527px;;
+}
+
+.título{
+    position: fixed;
+    top: 0;
+    background-color: rgb(0, 0, 0);
+    color:rgb(0, 47, 255);
+    height: 67px;
+    font-size: 50px;
+    opacity: 0.8;
+    width: 100%;
+    text-align: center;
+    margin-top: 2px;
+}
+.Atalho{
+    margin-left: 37%;  
+    font-weight: 800;
+    color: rgb(235, 235, 235);
+    margin-top: 10px;
+    margin-bottom: 5px;
+    font-size: 25px;
+}
+h2{
+    font-size: 21px;
+}
+ol{
+    margin-bottom: -30px;
+    list-style: none;
+    width: 370px;
+}
+nav{
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgb(0, 2, 61);
+    color: rgb(0, 47, 255);
+    border: solid rgb(0, 47, 255);
+    border-radius: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+}
+nav a{
+    font-size: 20px;
+    text-decoration: none;
+}
+nav a:hover{
+    color: rgb(0, 2, 61);
+    background-color: rgb(0, 47, 255);
+}
+h3{
+    margin-bottom: 60px;
+    letter-spacing: .2rem;
+    margin-left: 10px;
+    text-align: center;
+    font-size: 22px;
+}
+h1{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 900;
+}
+#link {
+    margin-left: 280px;
+}
+video{
+    width: 45%;
+    margin-left: 28%;
+}
+.ftBio{
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    height: 30%;
+    width: 380px;
+}
+
+a{
+    color: rgb(168, 174, 255);
+    font-size: 20px;
+}
+img{
+    width: 250px;
+    margin-left: 45px;
+    border-radius: 8px;
+}
+button{
+    margin-left: 127px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 252, 252);
+    border-radius: 15px;
+    width: 90px;
+    padding-bottom: 3px;
+    padding-top: 3px;
+    padding-left: 6px;
+    padding-right: 6px;
+    font-size: 14.5px;
+}
+button:hover{
+    transform: rotate(5deg);
+}
+p{
+    font-size: 20px;
+    font-weight: bolder;
+}
+#gatie{
+    background-image: linear-gradient(45deg, rgb(100, 0, 0), rgb(202, 16, 16));
+    padding-top: 10px;
+    border: solid rgb(100, 0, 0);
+    padding-bottom: 10px;
+    margin-left: 450px;
+    margin-right: 450px;
+    border-radius: 25px;
+    margin-top: 115px;
+}
+
+#gatie p{
+    margin-left: 90px;
+}
+.criolo{
+    background-color: rgb(255, 254, 254);
+    color: rgb(0, 0, 0);
+}
+#Criolo{
+    background-image: linear-gradient(45deg, rgb(34, 30, 30), rgb(88, 85, 85));
+    border: solid rgb(78, 70, 70);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 450px;
+    margin-right: 450px;
+    border-radius: 25px;
+    margin-top: 115px;
+}
+#Criolo p{
+    margin-left: 40px;
+}
+#Olhos{
+    background-image: linear-gradient(45deg, rgb(243, 220, 9), rgb(218, 19, 19)80%);
+    padding-top: 10px;
+    border: solid rgb(247, 210, 0);
+    padding-bottom: 10px;
+    margin-left: 450px;
+    margin-right: 450px;
+    border-radius: 25px;
+    margin-top: 115px;
+}
+#Olhos p{
+    margin-left: 20%;
+}
+
+#Giants{
+    background-image: linear-gradient(black, rgb(199, 0, 10)80%);
+    border: solid rgb(131, 5, 5);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 450px;
+    margin-right: 450px;
+    border-radius: 25px;
+    margin-top: 115px;
+}
+#Giants p{
+    margin-left: 65px;
+}
+
+#Lover{
+    background-image:linear-gradient(45deg, rgb(255, 87, 87), rgb(204, 44, 44)80%);
+    border: solid rgb(204, 44, 44) ;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 450px;
+    margin-right: 450px;
+    border-radius: 25px;
+    margin-top: 115px;
+}
+#Lover p{
+    margin-left: 28px;
+}
+
+.maneskin{
+    background-color: rgb(92, 139, 151);
+    color: rgb(46, 48, 51);
+}
+#Maneskin{
+    background-image: linear-gradient(45deg, rgb(36, 67, 88), rgb(13, 29, 43));
+    padding-top: 10px;
+    border: solid rgb(4, 34, 37);
+    padding-bottom: 10px;
+    margin-left: 450px;
+    margin-right: 450px;
+    border-radius: 25px;
+    margin-top: 115px;
+}
+#Maneskin p{
+    margin-left: 62px;
+}
+
+.nervous{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+#Nervous{
+    background-image: linear-gradient(45deg, rgb(136, 13, 99), rgb(82, 3, 57), rgb(255, 196, 0) 120%);
+    border: solid rgb(82, 4, 58);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 450px;
+    margin-right: 450px;
+    border-radius: 25px;
+    margin-top: 115px;
+}
+#Nervous p{
+    margin-left: 45px;
+}
+.ninguém{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+#Ninguém{
+    background-image: linear-gradient( rgb(228, 224, 224),rgb(65, 64, 64));
+    border: solid rgb(65, 64, 64);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 450px;
+    margin-right: 450px;
+    border-radius: 25px;
+    margin-top: 115px;
+}
+#Ninguém p{
+    margin-left: 45px;
+}
+
+#Anjos{
+    background-image: linear-gradient(black,grey, rgb(235, 234, 234));
+    color: rgb(0, 0, 0);
+    border: solid rgb(109, 109, 109);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 450px;
+    margin-right: 450px;
+    border-radius: 25px;
+    margin-top: 115px;
+}
+#Anjos p{
+    margin-left: 15px;
+}
+.jorge{
+    background-color: rgb(185, 1, 1);
+    color: rgb(255, 255, 255);
+}
+#Jorge{
+    background-image: linear-gradient(red, rgb(26, 0, 0));
+    padding-top: 10px;
+    border: solid rgb(53, 13, 13);
+    padding-bottom: 10px;
+    margin-left: 450px;
+    margin-right: 450px;
+    border-radius: 25px;
+    margin-top: 115px;
+    margin-bottom: 20px;
+}
+#Jorge p{
+    margin-left:20px;
+    color: rgb(255, 88, 88);
+}
